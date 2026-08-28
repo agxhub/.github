@@ -23,7 +23,7 @@
 
 | | Product | Source | What it is |
 | --- | --- | --- | --- |
-| **Developer foundation** | [AgenticX Runtime](https://github.com/DemonDamon/AgenticX/tree/main/agenticx) | [`agenticx/`](https://github.com/DemonDamon/AgenticX/tree/main/agenticx) | Python Agent Runtime and SDK: orchestration, tools, memory, knowledge, Skills, Hooks, and MCP |
+| **Developer foundation** | [AgenticX Framework](https://github.com/DemonDamon/AgenticX/tree/main/agenticx) | [`agenticx/`](https://github.com/DemonDamon/AgenticX/tree/main/agenticx) | Python framework and SDK: orchestration, tools, memory, knowledge, Skills, Hooks, and MCP |
 | **Local first** | [Near Desktop](https://github.com/DemonDamon/AgenticX/tree/main/desktop) | [`desktop/`](https://github.com/DemonDamon/AgenticX/tree/main/desktop) | Local-first Electron workspace: multi-pane chat, avatars, files, terminal, automation, and voice |
 | **Governed AI** | [Enterprise](https://github.com/DemonDamon/AgenticX/tree/main/enterprise) | [`enterprise/`](https://github.com/DemonDamon/AgenticX/tree/main/enterprise) | Web Portal, Admin Console, and Go AI Gateway for identity, policy, quota, audit, and governance |
 
